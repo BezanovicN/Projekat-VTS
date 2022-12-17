@@ -1,0 +1,343 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Bebas Neue', cursive;
+}
+/* Pocetna */
+.home{
+    width: 100%;
+    height: 1000px;
+    background-image: url(images/background.jpg);
+    background-size: cover;
+   
+}
+
+.nav{
+    
+    width: 95%;
+    height: 80px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+
+}
+
+.logo{
+    width: 100px;
+}
+.nav ul li{
+    list-style: none;
+    display: inline;
+    
+  
+
+}
+
+.nav ul li a{
+    text-decoration: none;
+    color:black;
+    padding: 30px;
+    text-transform: uppercase;
+    font-size: 120%;
+    transition: 0.5s ease;
+}
+
+.nav ul li:hover{
+    height: auto;
+    width: 0;
+    border-bottom: 2px solid blue;
+    padding: 10px;
+  
+}
+
+.klasa2{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-20%);
+    text-align: center;
+    color:black;
+}
+
+.klasa2 h1{
+    font-size: 600%;
+    margin: auto;
+}
+
+.klasa2 p{
+    font-size: 130%;
+    color: rgb(29, 93, 171);
+}
+
+.kraj{
+    width: auto;
+    height: 60px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    position: relative;
+    bottom: -100%;
+}
+
+.kraj ul li{
+    color: white;
+    list-style: none;
+    display: inline;
+    padding: 25px;
+}
+
+.kraj p{
+    color: white;
+    position: relative;
+    left: 30%;
+    
+    
+}
+
+.kraj ul li .fb, .in, .le{
+    width: 15px;
+    padding: 0px 5px;
+}
+
+/* Interior */
+.interior{
+    margin: 0;
+}
+
+.interior .nav{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    width: 100%;
+    position: fixed;
+    
+
+}
+
+.interior .nav ul li a{
+    margin-right: 10px;
+    padding: 30px;
+    color: white;
+}
+
+.design{
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+.design .slika{
+    margin-top: 100px;
+    margin-left: 450px;
+    width: 40%;
+    height: 300px;
+}
+
+.design h1{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 200%;
+    font-style: italic;
+}
+
+.design p{
+    margin: 5px 10px;
+    text-align: justify;
+    font-size:120%;
+
+}
+
+.design h3{
+    font-weight: bold;
+}
+
+.design .slika3{
+    width: 100%;
+     
+}
+
+.design .slika4{
+    margin-top: 25px;
+    width: 100%;
+}
+
+.design .slika5{
+    margin-top: 25px;
+    width: 100%;
+}
+
+.design .slika6{
+    margin-top: 25px;
+    width: 100%;
+}
+
+.design .kraj{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+/* Contact */
+.contact{
+    margin: auto;
+
+    
+}
+
+.contact .nav{
+    padding: 10px;
+    background-color: black;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+}
+
+    
+.contact .nav ul li a{
+    margin-right: 10px;
+    padding: 30px;
+    color: white;
+}
+
+.slika2{
+    width: 100%;
+    height: 100%;
+    
+
+}
+
+.klas3{
+    margin: auto;
+  
+
+}
+
+.klasa3 h1{
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+form{
+    width: 50%;
+    margin-left: 100px
+    
+}
+
+.klasa4{
+    margin-bottom: 30px;
+}
+
+input, textarea{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid grey;
+    color: black;
+    font-size: 15px;
+} 
+
+button{
+    padding: 10px 0px;
+    color: black;
+    border: 1px solid black;
+    transition: 0.3s ease;
+    width:30%;
+    margin-left: 5px;
+    margin-bottom: 30px;
+}
+
+button:hover{
+    border: 2px solid blue;
+    background-color:rgb(41, 41, 110);
+    color: slategray;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+
+@media  screen and (min-width:300px) and (max-width:420px)
+{
+.home{
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+   
+}
+.home .logo{
+    width: 30%;
+    position: relative;
+    top: 40%;
+}
+
+.nav{
+    width: 100%;
+    height: 230px;
+    display: block;
+    position: relative;
+    top: -10%;
+}
+
+.nav .logo{
+    position: relative;
+    left: -5%;
+}
+
+.nav ul li{
+    display: block;
+    width:100%;
+    padding: 10px;
+    text-align: center;
+}
+
+.nav ul li a{
+    font-size: 25px;
+    position: relative;
+    top: -20%;
+}
+.klasa2 h1{
+    font-size: 45px;
+    margin: 10px 10px;
+}
+.klasa2 p{
+    font-size: 20px;
+    margin: 5px;
+}
+.kraj{
+    position: relative;
+    top: 70%;
+    width: 100%;
+    height: 10%;
+}
+.kraj ul li{
+    display: block;
+    padding: 5px;
+    align-items: center;
+    font-size: 15px;
+}
+.kraj p{
+    position: relative;
+    left: -30%;
+    bottom: -50%;
+}
+
+}
+
+
+
+
+
+    
+
+    
+
+
+
+ 
