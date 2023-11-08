@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/issues</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/pulls</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/actions</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/projects?query=is%3Aopen</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/security</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/commit/391f096bebd80f2c401a654d740d0a4f699ac109</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/releases</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/labels</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/compare</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/commit/6315f27af0523fd73d726813d27a5181b8a0e1b9</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/labels?sort=name-asc</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/labels?sort=name-desc</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/labels?sort=count-desc</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/labels?sort=count-asc</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/labels/bug</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/labels/documentation</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/labels/duplicate</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/labels/enhancement</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/labels/good%20first%20issue</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/labels/help%20wanted</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/labels/invalid</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/labels/question</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/labels/wontfix</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones?state=open</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones?state=closed</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/commit/ab4cd7adba1bcb2fdbc4596f46c2c432c4e9279e</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/commit/aa86061e3f57fcefbf5027114f3ccda496052704</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/commit/8f4d38dc2d8848f9a696530b0a053a82740851e0</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/commit/ffa35ea5c2ef0bab038180137725b6d0a87efba3</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/commit/8196e8d7850967e43040965a6325a6da2aa54831</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/commit/83c44d2327476edfad98a105f513a5f527bd18c9</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/commit/6ac126aa615d5fe1f2b193078a5278a6f22a84cc</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/commit/4d2322529c5539c7d505ae0bd1d5339e9b59f8f5</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/commit/df2e505a71ff57015ce8112cc5fcee73baa2ae20</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://github.com/BezanovicN/Projekat-VTS/commit/c9b38845e80eb9d2b9b2cda8d2de75021ae8402e</loc>
+  <lastmod>2023-11-08T20:41:22+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+
+
+</urlset>
