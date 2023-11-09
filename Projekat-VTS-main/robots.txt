@@ -1,0 +1,4 @@
+User-agent: * 
+Disallow:
+
+sitemap : https://github.com/BezanovicN/Projekat-VTS.git/sitemap.xml
