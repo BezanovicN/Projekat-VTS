@@ -1,4 +1,4 @@
 User-agent: * 
 Disallow:
 
-sitemap : https://github.com/BezanovicN/Projekat-VTS/blob/main/Projekat-VTS-main/sitemap.xml
+sitemap : https://github.com/BezanovicN/Projekat-VTS.git/sitemap.xml
